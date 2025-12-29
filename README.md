@@ -1,2 +1,2 @@
 # vaibhavi.wad
-web projects built using html , css and java script with the focus on clean UI and functionality
+Web projects built using HTML , CSS  with the focus on clean UI and functionality
